@@ -60,8 +60,8 @@ BANNER = f"""{C.CYAN}
 ██████  ██████  ██    ██    ██    █████       █████   ██    ██ ██████  ██      █████
 ██   ██ ██   ██ ██    ██    ██    ██          ██      ██    ██ ██   ██ ██      ██
 ██████  ██   ██  ██████     ██    ███████     ██       ██████  ██   ██  ██████ ███████
-{C.RESET}{C.DIM}                          Tanvir Hossain Antu
-                  https://github.com/Antu7/python-bruteForce{C.RESET}
+{C.RESET}{C.DIM}                          i2w
+                  https://github.com/i2w23192/brute-force{C.RESET}
 """
 
 
